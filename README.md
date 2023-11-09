@@ -5,3 +5,4 @@
 #teste2
 
 *comando git push
+*git fetch
